@@ -1,0 +1,14 @@
+#include "resource.h"
+
+
+//1 TEXTINCLUDE DISCARDABLE 
+//BEGIN
+//    "resource.h\0"
+//END
+
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_LE_GENERAL_TOKEN    "There was a general tokenization error."
+END
+

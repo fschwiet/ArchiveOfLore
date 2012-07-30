@@ -1,0 +1,6 @@
+lexical definitions:
+
+name: (alpha/'_') (alpha/numeric/'_')*
+
+value: (number)*['.' (number)*] ('e'/'E') ['+'/'-'] (number)*
+

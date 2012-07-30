@@ -1,0 +1,1 @@
+I have no recollection what this code was written for.  The Last modified date was 2001, but the file was probably being archived then.
